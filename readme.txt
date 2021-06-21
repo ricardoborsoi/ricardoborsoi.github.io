@@ -1,0 +1,13 @@
+download the jemdoc+mathjax version at https://github.com/wsshin/jemdoc_mathjax/, for compatibility with python 3
+
+- use jemdoc_mathjax/jemdoc --show-config to show the names of the blocks which can be overriden in mysite.conf
+- later compile with: python jemdoc_mathjax/jemdoc -c mysite.conf index.jemdoc
+
+
+see:
+http://jemdoc.jaboc.net/htmlchanges.html
+http://jemdoc.jaboc.net/using.html
+http://jemdoc.jaboc.net/modelines.html
+http://jemdoc.jaboc.net/cheatsheet.html
+
+

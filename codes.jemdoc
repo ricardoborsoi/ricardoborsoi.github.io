@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{codes.html}, notime
+= Codes and Data
+
+In this page you can find codes and data related to some of the projects and papers of which I participated.
+
+
+
+== Codes
+
+
+[href="https://github.com/ricardoborsoi/MUA_SparseUnmixing MUA]
+
+Description: This package provides code for a ultiscale sparse unmixing algorithm, which was proposed in the paper: [https://arxiv.org/abs/1712.01770 R.A. Borsoi et al. "A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing", IEEE GSRL, 2019].
+
+
+
+[href="https://github.com/talesimbiriba/GLMM GLMM]
+
+Description: This package provides code of a generalized linear mixing model to address endmember variability, which was proposed in the paper: [https://arxiv.org/pdf/1710.07723 T. Imbiriba, et al. "Generalized linear mixing model accounting for endmember variability", ICASSP, 2018].
+
+
+
+[https://github.com/ricardoborsoi/Adap_SRR Adaptive SRR]
+
+Description: This package provides code of a low-complexity adaptive algorithm for the super-resolution of video sequences with an improved robustness to scene changes and a competitive performance with ore complex recent methods. It was proposed in the paper: [https://arxiv.org/pdf/1706.04695 R.A. Borsoi et al. "A new adaptive video super-resolution algorithm with improved robustness to innovations", IEEE TIP, 2019].
+
+
+
+[href="https://github.com/ricardoborsoi/SRR_EIT SRR-EIT]
+
+Description: This package provides code and data for performing the super-resolution reconstruction of electrical impedance images, containing the examples illustrated in the respective paper: [https://arxiv.org/pdf/1701.00031 R.A. Borsoi et al. "Super-resolution reconstruction of electrical impedance tomography images", C&EE, 2018].
+
+
+
+
+

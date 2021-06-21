@@ -1,0 +1,133 @@
+# jemdoc: menu{MENU}{publications.html}, notime
+= Publications
+
+Note: An up-to-date publication list can be found in [https://scholar.google.com/citations?user=FeiFDgkAAAAJ&hl=en Google scholar]
+
+
+
+== Preprints
+
+. M. Moscu, *R.A. Borsoi*, C. Richard, J.C.M. Bermudez. Graph topology inference with derivative-reproducing property in RKHS: algorithm and convergence analysis.
+#
+#
+. D.M. Carmo, *R.A. Borsoi*, M.H. Costa. Robust parameter design for Wiener-based binaural noise reduction methods in hearing aids.
+#
+#
+. *R.A. Borsoi*, T. Imbiriba, J.C.M. Bermudez, C. Richard. Fast Unmixing and Change Detection inMultitemporal Hyperspectral Data.
+#
+#
+. C. Prévost, *R.A. Borsoi*, K. Usevich, D. Brie, J.C.M. Bermudez, C. Richard. Hyperspectral super-resolution accounting for spectral variability: LL1-based recovery and blind unmixing.
+
+
+
+
+
+== Journal Papers
+
+. *R.A. Borsoi*, T. Imbiriba, J.C.M. Bermudez, C. Richard, J Chanussot, L. Drumetz, J.-Y. Tourneret, A. Zare, C. Jutten. [https://ieeexplore.ieee.org/document/9439249 Spectral variability in hyperspectral data unmixing: A comprehensive review]. /IEEE Geoscience and Remote Sensing Magazine/, 2021. [https://arxiv.org/pdf/2001.07307 PDF] [https://github.com/ricardoborsoi/unmixing_spectral_variability Code]
+#
+#
+. H. Li, *R.A. Borsoi*, T. Imbiriba, P. Closas, J.C.M Bermudez, D. Erdoğmuş. [https://ieeexplore.ieee.org/abstract/document/9423808/ Model-Based Deep Autoencoder Networks for Nonlinear Hyperspectral Unmixing]. /IEEE Geoscience and Remote Sensing Letters/, 2021. [https://arxiv.org/pdf/2104.08409.pdf PDF]
+#
+#
+. *R.A. Borsoi*, C. Prévost, K. Usevich, D. Brie, J.C.M. Bermudez, C. Richard. [https://ieeexplore.ieee.org/abstract/document/9337933/ Coupled Tensor Decomposition for Hyperspectral and Multispectral Image Fusion with Inter-image Variability]. /IEEE Journal of Selected Topics in Signal Processing/, 2021. [https://arxiv.org/pdf/2006.16968.pdf PDF]
+#
+#
+. *R.A. Borsoi*, T. Imbiriba, P. Closas, J.C.M. Bermudez, C. Richard. [https://ieeexplore.ieee.org/abstract/document/9219120/ Kalman filtering and expectation maximization for multitemporal spectral unmixing]. /IEEE Geoscience and Remote Sensing Letters/, 2020. [https://arxiv.org/pdf/2001.00425.pdf PDF]
+#
+#
+. *R.A. Borsoi*, T. Imbiriba, J.C.M. Bermudez, C. Richard. [https://ieeexplore.ieee.org/abstract/document/9146324/ Deep generative models for library augmentation in multiple endmember spectral mixture analysis]. /IEEE Geoscience and Remote Sensing Letters/, 2020. [https://arxiv.org/pdf/1909.09741.pdf PDF]
+#
+#
+. *R.A. Borsoi*. [https://www.sciencedirect.com/science/article/pii/S0165168420301183 Robust online video super-resolution using an efficient alternating projections scheme]. /Signal Processing/, 2020. [https://arxiv.org/pdf/1909.00073 PDF]
+#
+#
+. *R.A. Borsoi*, T. Imbiriba, J.C.C. Bermudez, C. Richard. [https://ieeexplore.ieee.org/abstract/document/9031700/ A blind multiscale spatial regularization framework for kernel-based spectral unmixing]. /IEEE Transactions on Image Processing/, 2020. [https://arxiv.org/pdf/1908.06925 PDF] [https://github.com/ricardoborsoi/MultiscaleKernelSURelease Code]
+#
+#
+. *R.A. Borsoi*, T. Imbiriba, J.C.C. Bermudez. [https://ieeexplore.ieee.org/abstract/document/8962277/ A data dependent multiscale model for hyperspectral unmixing with spectral variability]. /IEEE Transactions on Image Processing/, 2020. [https://arxiv.org/pdf/1808.01047 PDF] [https://github.com/ricardoborsoi/DataDependentSUvarRelease Code]
+#
+#
+. T. Imbiriba, *R.A. Borsoi*, J.C.C. Bermudez. [https://ieeexplore.ieee.org/abstract/document/8909372/ Low-rank tensor modeling for hyperspectral unmixing accounting for spectral variability]. /IEEE Transactions on Geoscience and Remote Sensing/, 2019. [https://arxiv.org/pdf/1811.02413 PDF] [https://github.com/talesimbiriba/ULTRA-V Code]
+#
+#
+. *R.A. Borsoi*, T. Imbiriba, J.C.C. Bermudez. [https://ieeexplore.ieee.org/abstract/document/8878112/ Deep generative endmember modeling: An application to unsupervised spectral unmixing]. /IEEE Transactions on Computational Imaging/, 2019. [https://arxiv.org/pdf/1902.05528 PDF] [https://github.com/ricardoborsoi/Unmixing_with_Deep_Generative_Models Code]
+#
+#
+. *R.A. Borsoi*, T. Imbiriba, J.C.C. Bermudez. [https://ieeexplore.ieee.org/abstract/document/8768351/ Super-resolution for hyperspectral and multispectral image fusion accounting for seasonal spectral variability]. /IEEE Transactions on Image Processing/, 2019. [https://arxiv.org/pdf/1808.10072 PDF] [https://github.com/ricardoborsoi/FuVarRelease Code]
+#
+#
+. *R.A. Borsoi*, T. Imbiriba, J.C.C. Bermudez, C. Richard. [https://ieeexplore.ieee.org/abstract/document/8536490/ A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing]. /IEEE Geoscience and Remote Sensing Letters/, 2018. [https://arxiv.org/pdf/1712.01770 PDF] [https://github.com/ricardoborsoi/MUA_SparseUnmixing Code]
+#
+#
+. *R.A. Borsoi*, G.H. Costa and J.C.M. Bermudez. [https://ieeexplore.ieee.org/abstract/document/8440098/ A new adaptive video super-resolution algorithm with improved robustness to innovations]. /IEEE Transactions on Image Processing/, 2018. [https://arxiv.org/pdf/1706.04695 PDF] [https://github.com/ricardoborsoi/Adap_SRR Code]
+#
+#
+. *R.A. Borsoi*, J.C.C. Aya, G.H. Costa and J.C.M. Bermudez. [https://www.sciencedirect.com/science/article/pii/S0045790617333888 Super-Resolution Reconstruction of Electrical Impedance Tomography Images]. /Computers and Electrical Engineering/, 2018. [https://arxiv.org/pdf/1701.00031 PDF] [https://github.com/ricardoborsoi/SRR_EIT Code]
+#
+#
+. *R.A. Borsoi* and G.H. Costa. [http://ieeexplore.ieee.org/abstract/document/7930426/ On the Performance and Implementation of Parallax free Video See-Through Displays]. /IEEE Transactions on Visualization and Computer Graphics/, 2017. [http://ricardoborsoi.github.io/Publications/2017_seethrough_tvcg.pdf PDF]
+
+
+
+
+
+
+
+
+
+== International Conference Papers
+
+. L.C. Ayres, S.J.M de Almeida, J.C.M. Bermudez, *R.A. Borsoi*. [https://ieeexplore.ieee.org/abstract/document/9415024/ A Homogeneity-Based Multiscale Hyperspectral Image Representation for Sparse Spectral Unmixing]. /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, 2021. [https://arxiv.org/pdf/2102.05804.pdf PDF]
+#
+#
+. M. Moscu, *R.A. Borsoi*, C. Richard. [https://ieeexplore.ieee.org/abstract/document/9413693/ Convergence Analysis Of The Graph-topology-inference Kernel LMS Algorithm]. /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, 2021. [https://www.cedric-richard.fr/Articles/moscu2021convergence.pdf PDF]
+#
+#
+. M. Moscu, *R.A. Borsoi*, C. Richard. [https://ieeexplore.ieee.org/abstract/document/9287624/ Online Kernel-Based Graph Topology Identification with Partial-Derivative-Imposed Sparsity]. /European Signal Processing Conference (EUSIPCO)/, 2020. [https://www.researchgate.net/profile/Mircea-Moscu/publication/348734027_Online_Kernel-Based_Graph_Topology_Identification_with_Partial-Derivative-Imposed_Sparsity/links/600fffab299bf14088c0e88d/Online-Kernel-Based-Graph-Topology-Identification-with-Partial-Derivative-Imposed-Sparsity.pdf PDF]
+#
+#
+. *R.A. Borsoi*, C. Richard, A. Ferrari, J. Chen, J.C.M. Bermudez. [https://ieeexplore.ieee.org/abstract/document/9287747/ Online graph-based change point detection in multiband image sequences]. /European Signal Processing Conference (EUSIPCO)/, 2020. [https://arxiv.org/pdf/2006.14033.pdf PDF]
+#
+#
+. M. Moscu, *R.A. Borsoi*, C. Richard. [https://ieeexplore.ieee.org/abstract/document/9053148/ Online Graph Topology Inference with Kernels For Brain Connectivity Estimation]. /International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, Barcelona, 2020. [http://www.cedric-richard.fr/Articles/moscu2019online.pdf PDF]
+#
+#
+. *R.A. Borsoi*, T. Imbiriba, J.C.M. Bermudez.[https://ieeexplore.ieee.org/abstract/document/8683155 Improved Hyperspectral Unmixing with Endmember Variability Parametrized Using an Interpolated Scaling Tensor]. /International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, Brighton, 2019. [https://arxiv.org/pdf/1901.00463.pdf PDF]
+#
+#
+. T. Imbiriba, *R.A. Borsoi*, J.C.M. Bermudez. [https://ieeexplore.ieee.org/abstract/document/8450853 A Low-Rank Tensor Regularization Strategy for Hyperspectral Unmixing]. /Statistical Signal Processing Workshop (SSP)/, Freiburg, 2018. [https://arxiv.org/pdf/1803.06355.pdf PDF]
+#
+#
+. T. Imbiriba, *R.A. Borsoi*, J.C.M. Bermudez. [https://ieeexplore.ieee.org/abstract/document/8462214 Generalized linear mixing model accounting for endmember variability]. /International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, Calgary, 2018. [https://arxiv.org/pdf/1710.07723 PDF] [https://github.com/talesimbiriba/GLMM Code]
+#
+#
+. *R.A. Borsoi*, G.H. Costa, J.C.M. Bermudez. [http://ieeexplore.ieee.org/abstract/document/8081460/ A new adaptive video SRR algorithm with improved robustness to innovations]. /European Signal Processing Conference (EUSIPCO)/, Kos, 2017. [https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570343669.pdf PDF]
+
+
+
+
+
+
+
+== Local Conference Papers
+
+. D.M do Carmo, M.H. Costa, *R.A. Borsoi*. Proposta de uma função custo para a preservação espacial de fontes sonoras em aparelhos auditivos biauriculares. /XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais/, Florianópolis, 2020. [https://www.sbrt.org.br/sbrt2020/papers/1570661592.pdf PDF]
+#
+#
+. L.C. Ayres, S.J.M. de Almeida, J.C.M. Bermudez, *R.A Borsoi*. Representação Aprimorada de Imagens Hiperespectrais em Múltiplas Escalas para a Separação Espectral Esparsa. /XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais/, Florianópolis, 2020. [https://www.sbrt.org.br/sbrt2020/papers/1570639862.pdf PDF]
+#
+#
+. *R.A. Borsoi*, J.C.C. Aya, G.H. Costa and J.C.M. Bermudez. Super-Resolução de Imagens de Tomografia por Impedância Elétrica. /XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais/, São Pedro, 2017. [https://www.researchgate.net/publication/319716478_Super-Resolucao_de_Imagens_de_Tomografia_por_Impedancia_Eletrica PDF] 
+
+
+
+
+
+
+
+== Other
+
+. *R.A. Borsoi*. [href="https://repositorio.ufsc.br/handle/123456789/175313 A new adaptive algorithm for video super-resolution with improved outlier handling capability]. Master thesis, Federal University of Santa Catarina, 2016. [https://repositorio.ufsc.br/bitstream/handle/123456789/175313/345229.pdf?sequence=1 PDF]
+
+

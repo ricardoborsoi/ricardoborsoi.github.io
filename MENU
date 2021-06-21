@@ -1,0 +1,17 @@
+
+Navigation
+    Home                [index.html]
+    About               [index.html]
+    # Dep. site           [index.html]      
+    
+Research
+    Projects            [research.html]
+    Publications        [publications.html]
+    Code/Data           [codes.html]
+    People              [people.html]
+    # Group               [index.html]
+    # Talks               [index.html]
+    # Teaching            [index.html]
+    # Service             [index.html]
+
+# vim: et

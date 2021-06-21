@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{research.html}, notime
+= Research
+
+In the following you can find quick description of the research problems I've been working on.
+
+
+== Spectral Unmixing
+
+Hyperspectral devices sample the reclectance spectrum of a material at hundreds of contiguous spectral bands. This high spectral resolution allows for a precise characterization of a material based on its spectral characteristics. However, due to physical limitations hyperspectral cameras have very limited spatial resolution, which means that most pixels in the image are actually composed of a mixture of several pure materials, which are called endmembers. Unmixing attempts to recover the spectra of the pure materials (i.e., the endmembers) as well as the propoetions to which they contribute to each pixel of the image (which are called the abundances).
+
+Several challenges underlie the unmixing problem:
+- Variability of the endmember spectra
+- Nonlinear interactions between light and the materials in the scene
+- Time varying data
+
+# <img src="styleFiles/deepgun.png" alt="Generative endmember model" title="Generative endmember model" width="100%" height="100%" />
+
+== Image Super Resolution
+
+
+
+
+
+
+
+
