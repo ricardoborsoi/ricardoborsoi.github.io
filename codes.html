@@ -15,8 +15,8 @@
 &emsp;
 <p style="text-align:center;"><img src="styleFiles/pctr2.jpg" width="100"></p>
 <h4 id="another-student" style="color: #666d6f; text-align:center; margin-bottom: 10px;"> Ricardo Borsoi</h4>
-<p style="font-size: 13px; text-align:center;"> PhD student <br> UFSC/UNice </p>
-<!-- <p style="font-size: 13px; text-align:center;"> Postoc researcher <br> University of <br> Underthebasket </p> -->
+<!-- <p style="font-size: 13px; text-align:center;"> PhD student <br> UFSC/UNice </p> -->
+<p style="font-size: 13px; text-align:center;"> Postoc researcher <br> University of <br> Lorraine </p>
 <div class="menu-category">Navigation</div>
 <div class="menu-item"><a href="index.html">Home</a></div>
 <div class="menu-item"><a href="index.html">About</a></div>
@@ -24,7 +24,6 @@
 <div class="menu-item"><a href="research.html">Projects</a></div>
 <div class="menu-item"><a href="publications.html">Publications</a></div>
 <div class="menu-item"><a href="codes.html" class="current">Code/Data</a></div>
-<div class="menu-item"><a href="people.html">People</a></div>
 <div class="menu-category">Contact info:</div>
 <img src="styleFiles/eddrss.jpg" width="140" style="padding-left: 7px; padding-bottom: 0px; padding-top: 8px;"> <br>
 <a href="https://scholar.google.com/citations?user=FeiFDgkAAAAJ&hl=en" style="font-size: 15px;">Scholar profile</a> <br>
@@ -38,26 +37,42 @@
 </div>
 <p>In this page you can find codes and data related to some of the projects and papers of which I participated.
 </p>
-<h2>Codes</h2>
-<p><a href="href="https://github.com/ricardoborsoi/MUA_SparseUnmixing" target=&ldquo;blank&rdquo;>MUA</a>
+<h4><a href="https://github.com/ricardoborsoi/unmixing_spectral_variability" target=&ldquo;blank&rdquo;>SU-VAR toolbox</a></h4>
+<p>Description: This software package provides a complete toolbox for hyperspectral unmixing considering spectral (endmember) variability. It includes realistic synthetic data generation routines, library extraction methods, and unmixing algorithms that follow different frameworks. It is related to the following review paper: <a href="https://arxiv.org/pdf/2001.07307.pdf" target=&ldquo;blank&rdquo;>R.A.&nbsp;Borsoi et&nbsp;al. &ldquo;Spectral Variability in Hyperspectral Data Unmixing: A Comprehensive Review&rdquo;, IEEE GRSM, 2021</a>.
 </p>
-<p>Description: This package provides code for a ultiscale sparse unmixing algorithm, which was proposed in the paper: <a href="https://arxiv.org/abs/1712.01770" target=&ldquo;blank&rdquo;>R.A. Borsoi et al. &ldquo;A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing&rdquo;, IEEE GSRL, 2019</a>.
+<h4><a href="https://github.com/ricardoborsoi/CB_STAR_release" target=&ldquo;blank&rdquo;>CB-STAR</a></h4>
+<p>Description: This software package provides codes for a hyperspectral and multispectral image fusion algorithm that accounts for both spatially and spectrally localized inter-image changes between the images using a coupled tensor decomposition strategy. It is related to the following publication: <a href="https://arxiv.org/pdf/2006.16968.pdf" target=&ldquo;blank&rdquo;>R.A.&nbsp;Borsoi et&nbsp;al. &ldquo;Coupled tensor decomposition for hyperspectral and multispectral image fusion with inter-image variability&rdquo;, IEEE JSTSP, 2021</a>.
 </p>
-<p><a href="href="https://github.com/talesimbiriba/GLMM" target=&ldquo;blank&rdquo;>GLMM</a>
+<h4><a href="https://github.com/ricardoborsoi/FuVarRelease" target=&ldquo;blank&rdquo;>FuVar</a></h4>
+<p>Description: This software package provides codes for a hyperspectral and multispectral image fusion algorithm that accounts for seasonal spectral variability between the images using a framework based on matrix factorization. To the best of our knowledge, it is the first algorithm to address spectral variability in multimodal image fusion. It is related to the following publication: <a href="https://arxiv.org/pdf/1808.10072.pdf" target=&ldquo;blank&rdquo;>R.A.&nbsp;Borsoi et&nbsp;al. &ldquo;Super-Resolution for Hyperspectral and Multispectral Image Fusion Accounting for Seasonal Spectral Variability&rdquo;, IEEE TIP, 2019</a>.
 </p>
-<p>Description: This package provides code of a generalized linear mixing model to address endmember variability, which was proposed in the paper: <a href="https://arxiv.org/pdf/1710.07723" target=&ldquo;blank&rdquo;>T. Imbiriba, et al. &ldquo;Generalized linear mixing model accounting for endmember variability&rdquo;, ICASSP, 2018</a>.
+<h4><a href="https://github.com/ricardoborsoi/Unmixing_with_Deep_Generative_Models" target=&ldquo;blank&rdquo;>DeepGUn</a></h4>
+<p>Description: This package provides codes for a hyperspectral unmixing algorithm that models the endmembers using a deep generative model learned from the observed image, which is used in an unmixing framework inspired by matrix factorization. It is related to the paper: <a href="https://arxiv.org/pdf/1902.05528.pdf" target=&ldquo;blank&rdquo;>R.A.&nbsp;Borsoi et&nbsp;al. &ldquo;Deep Generative Endmember Modeling: An Application to Unsupervised Spectral Unmixing&rdquo;, IEEE TCI, 2019</a>.
 </p>
-<p><a href="https://github.com/ricardoborsoi/Adap_SRR" target=&ldquo;blank&rdquo;>Adaptive SRR</a>
+<h4><a href="https://github.com/talesimbiriba/ULTRA-V" target=&ldquo;blank&rdquo;>ULTRA-V</a></h4>
+<p>Description: This package provides codes for a tensor-based low-rank hyperspectral unmixing algorithm that addresses spectral variability, and includes a simple heuristic to automatically adjust the tensor ranks. <b>Note that to run this code, you need to download Tensorlab from <a href="https://www.tensorlab.net" target=&ldquo;blank&rdquo;>https://www.tensorlab.net</a> and include it in the Matlab path</b>. It is related to the paper: <a href="https://arxiv.org/pdf/1811.02413.pdf" target=&ldquo;blank&rdquo;>T.&nbsp;Imbiriba, et&nbsp;al.&ldquo;Low-rank tensor modeling for hyperspectral unmixing accounting for spectral variability&rdquo;, IEEE TGRS, 2019</a>.
 </p>
-<p>Description: This package provides code of a low-complexity adaptive algorithm for the super-resolution of video sequences with an improved robustness to scene changes and a competitive performance with ore complex recent methods. It was proposed in the paper: <a href="https://arxiv.org/pdf/1706.04695" target=&ldquo;blank&rdquo;>R.A. Borsoi et al. &ldquo;A new adaptive video super-resolution algorithm with improved robustness to innovations&rdquo;, IEEE TIP, 2019</a>.
+<h4><a href="https://github.com/ricardoborsoi/MultiscaleKernelSURelease" target=&ldquo;blank&rdquo;>Multiscale Kernel SU</a></h4>
+<p>Description: This package provides codes for a nonlinear hyperspectral unmixing algorithm using kernels, which considers a multiscale spatial regularization strategy. The method automatically adjusts most of the regularization parameters and uses a computatinally efficient optimizatio strategy. It is related to the paper: <a href="https://arxiv.org/pdf/1908.06925.pdf" target=&ldquo;blank&rdquo;>R.A.&nbsp;Borsoi et&nbsp;al. &ldquo;A blind multiscale spatial regularization framework for kernel-based spectral unmixing&rdquo;, IEEE TIP 2020</a>.
 </p>
-<p><a href="href="https://github.com/ricardoborsoi/SRR_EIT" target=&ldquo;blank&rdquo;>SRR-EIT</a>
+<h4><a href="https://github.com/ricardoborsoi/DataDependentSUvarRelease" target=&ldquo;blank&rdquo;>Data Dependent SU</a></h4>
+<p>Description: This package provides codes for a hyperspectral unmixing algorithm which accounts for spectral variability using a multiscale spatial model (based on superpixels) and an efficient optimization strategy, which was proposed in: <a href="https://arxiv.org/pdf/1808.01047.pdf" target=&ldquo;blank&rdquo;>R.A.&nbsp;Borsoi et&nbsp;al. &ldquo;A Data Dependent Multiscale Model for Hyperspectral Unmixing With Spectral Variability&rdquo;, IEEE TIP 2020</a>.
 </p>
-<p>Description: This package provides code and data for performing the super-resolution reconstruction of electrical impedance images, containing the examples illustrated in the respective paper: <a href="https://arxiv.org/pdf/1701.00031" target=&ldquo;blank&rdquo;>R.A. Borsoi et al. &ldquo;Super-resolution reconstruction of electrical impedance tomography images&rdquo;, C&amp;EE, 2018</a>.
+<h4><a href="https://github.com/ricardoborsoi/MUA_SparseUnmixing" target=&ldquo;blank&rdquo;>MUA</a></h4>
+<p>Description: This package provides code for a multiscale sparse hyperspectral unmixing algorithm, which was proposed in the paper: <a href="https://arxiv.org/abs/1712.01770" target=&ldquo;blank&rdquo;>R.A.&nbsp;Borsoi et&nbsp;al. &ldquo;A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing&rdquo;, IEEE GSRL, 2019</a>.
+</p>
+<h4><a href="https://github.com/talesimbiriba/GLMM" target=&ldquo;blank&rdquo;>GLMM</a></h4>
+<p>Description: This package provides code of a generalized linear mixing model to address endmember variability, which was proposed in the paper: <a href="https://arxiv.org/pdf/1710.07723" target=&ldquo;blank&rdquo;>T.&nbsp;Imbiriba, et&nbsp;al. &ldquo;Generalized linear mixing model accounting for endmember variability&rdquo;, ICASSP, 2018</a>.
+</p>
+<h4><a href="https://github.com/ricardoborsoi/Adap_SRR" target=&ldquo;blank&rdquo;>Adaptive SRR</a></h4>
+<p>Description: This package provides code of a low-complexity adaptive algorithm for the super-resolution of video sequences with an improved robustness to scene changes and a competitive performance with ore complex recent methods. It was proposed in the paper: <a href="https://arxiv.org/pdf/1706.04695" target=&ldquo;blank&rdquo;>R.A.&nbsp;Borsoi et&nbsp;al. &ldquo;A new adaptive video super-resolution algorithm with improved robustness to innovations&rdquo;, IEEE TIP, 2019</a>.
+</p>
+<h4><a href="https://github.com/ricardoborsoi/SRR_EIT" target=&ldquo;blank&rdquo;>SRR-EIT</a></h4>
+<p>Description: This package provides code and data for performing the super-resolution reconstruction of electrical impedance images, containing the examples illustrated in the respective paper: <a href="https://arxiv.org/pdf/1701.00031" target=&ldquo;blank&rdquo;>R.A.&nbsp;Borsoi et&nbsp;al. &ldquo;Super-resolution reconstruction of electrical impedance tomography images&rdquo;, C&amp;EE, 2018</a>.
 </p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2021-07-11, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2022-01-11, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>

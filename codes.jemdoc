@@ -3,33 +3,62 @@
 
 In this page you can find codes and data related to some of the projects and papers of which I participated.
 
-
-
-== Codes
-
-
-[href="https://github.com/ricardoborsoi/MUA_SparseUnmixing MUA]
-
-Description: This package provides code for a ultiscale sparse unmixing algorithm, which was proposed in the paper: [https://arxiv.org/abs/1712.01770 R.A. Borsoi et al. "A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing", IEEE GSRL, 2019].
+# https://github.com/cprevost4/LL1_HSR_HU
 
 
 
-[href="https://github.com/talesimbiriba/GLMM GLMM]
-
-Description: This package provides code of a generalized linear mixing model to address endmember variability, which was proposed in the paper: [https://arxiv.org/pdf/1710.07723 T. Imbiriba, et al. "Generalized linear mixing model accounting for endmember variability", ICASSP, 2018].
-
-
-
-[https://github.com/ricardoborsoi/Adap_SRR Adaptive SRR]
-
-Description: This package provides code of a low-complexity adaptive algorithm for the super-resolution of video sequences with an improved robustness to scene changes and a competitive performance with ore complex recent methods. It was proposed in the paper: [https://arxiv.org/pdf/1706.04695 R.A. Borsoi et al. "A new adaptive video super-resolution algorithm with improved robustness to innovations", IEEE TIP, 2019].
+==== [https://github.com/ricardoborsoi/unmixing_spectral_variability SU-VAR toolbox]
+Description: This software package provides a complete toolbox for hyperspectral unmixing considering spectral (endmember) variability. It includes realistic synthetic data generation routines, library extraction methods, and unmixing algorithms that follow different frameworks. It is related to the following review paper: [https://arxiv.org/pdf/2001.07307.pdf R.A.~Borsoi et~al. "Spectral Variability in Hyperspectral Data Unmixing: A Comprehensive Review", IEEE GRSM, 2021].
 
 
 
-[href="https://github.com/ricardoborsoi/SRR_EIT SRR-EIT]
+==== [https://github.com/ricardoborsoi/CB_STAR_release CB-STAR]
+Description: This software package provides codes for a hyperspectral and multispectral image fusion algorithm that accounts for both spatially and spectrally localized inter-image changes between the images using a coupled tensor decomposition strategy. It is related to the following publication: [https://arxiv.org/pdf/2006.16968.pdf R.A.~Borsoi et~al. "Coupled tensor decomposition for hyperspectral and multispectral image fusion with inter-image variability", IEEE JSTSP, 2021].
 
-Description: This package provides code and data for performing the super-resolution reconstruction of electrical impedance images, containing the examples illustrated in the respective paper: [https://arxiv.org/pdf/1701.00031 R.A. Borsoi et al. "Super-resolution reconstruction of electrical impedance tomography images", C&EE, 2018].
 
+
+==== [https://github.com/ricardoborsoi/FuVarRelease FuVar]
+Description: This software package provides codes for a hyperspectral and multispectral image fusion algorithm that accounts for seasonal spectral variability between the images using a framework based on matrix factorization. To the best of our knowledge, it is the first algorithm to address spectral variability in multimodal image fusion. It is related to the following publication: [https://arxiv.org/pdf/1808.10072.pdf R.A.~Borsoi et~al. "Super-Resolution for Hyperspectral and Multispectral Image Fusion Accounting for Seasonal Spectral Variability", IEEE TIP, 2019].
+
+
+
+==== [https://github.com/ricardoborsoi/Unmixing_with_Deep_Generative_Models DeepGUn]
+Description: This package provides codes for a hyperspectral unmixing algorithm that models the endmembers using a deep generative model learned from the observed image, which is used in an unmixing framework inspired by matrix factorization. It is related to the paper: [https://arxiv.org/pdf/1902.05528.pdf R.A.~Borsoi et~al. "Deep Generative Endmember Modeling: An Application to Unsupervised Spectral Unmixing", IEEE TCI, 2019].
+
+
+
+==== [https://github.com/talesimbiriba/ULTRA-V ULTRA-V]
+Description: This package provides codes for a tensor-based low-rank hyperspectral unmixing algorithm that addresses spectral variability, and includes a simple heuristic to automatically adjust the tensor ranks. *Note that to run this code, you need to download Tensorlab from [https://www.tensorlab.net] and include it in the Matlab path*. It is related to the paper: [https://arxiv.org/pdf/1811.02413.pdf T.~Imbiriba, et~al."Low-rank tensor modeling for hyperspectral unmixing accounting for spectral variability", IEEE TGRS, 2019].
+
+
+
+==== [https://github.com/ricardoborsoi/MultiscaleKernelSURelease Multiscale Kernel SU]
+Description: This package provides codes for a nonlinear hyperspectral unmixing algorithm using kernels, which considers a multiscale spatial regularization strategy. The method automatically adjusts most of the regularization parameters and uses a computatinally efficient optimizatio strategy. It is related to the paper: [https://arxiv.org/pdf/1908.06925.pdf R.A.~Borsoi et~al. "A blind multiscale spatial regularization framework for kernel-based spectral unmixing", IEEE TIP 2020].
+
+
+
+==== [https://github.com/ricardoborsoi/DataDependentSUvarRelease Data Dependent SU]
+Description: This package provides codes for a hyperspectral unmixing algorithm which accounts for spectral variability using a multiscale spatial model (based on superpixels) and an efficient optimization strategy, which was proposed in: [https://arxiv.org/pdf/1808.01047.pdf R.A.~Borsoi et~al. "A Data Dependent Multiscale Model for Hyperspectral Unmixing With Spectral Variability", IEEE TIP 2020].
+
+
+
+==== [https://github.com/ricardoborsoi/MUA_SparseUnmixing MUA]
+Description: This package provides code for a multiscale sparse hyperspectral unmixing algorithm, which was proposed in the paper: [https://arxiv.org/abs/1712.01770 R.A.~Borsoi et~al. "A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing", IEEE GSRL, 2019].
+
+
+
+==== [https://github.com/talesimbiriba/GLMM GLMM]
+Description: This package provides code of a generalized linear mixing model to address endmember variability, which was proposed in the paper: [https://arxiv.org/pdf/1710.07723 T.~Imbiriba, et~al. "Generalized linear mixing model accounting for endmember variability", ICASSP, 2018].
+
+
+
+==== [https://github.com/ricardoborsoi/Adap_SRR Adaptive SRR]
+Description: This package provides code of a low-complexity adaptive algorithm for the super-resolution of video sequences with an improved robustness to scene changes and a competitive performance with ore complex recent methods. It was proposed in the paper: [https://arxiv.org/pdf/1706.04695 R.A.~Borsoi et~al. "A new adaptive video super-resolution algorithm with improved robustness to innovations", IEEE TIP, 2019].
+
+
+
+==== [https://github.com/ricardoborsoi/SRR_EIT SRR-EIT]
+Description: This package provides code and data for performing the super-resolution reconstruction of electrical impedance images, containing the examples illustrated in the respective paper: [https://arxiv.org/pdf/1701.00031 R.A.~Borsoi et~al. "Super-resolution reconstruction of electrical impedance tomography images", C&EE, 2018].
 
 
 

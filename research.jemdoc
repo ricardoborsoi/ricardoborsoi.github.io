@@ -11,15 +11,28 @@ Hyperspectral devices sample the reclectance spectrum of a material at hundreds 
 Several challenges underlie the unmixing problem:
 - Variability of the endmember spectra
 - Nonlinear interactions between light and the materials in the scene
-- Time varying data
+- Multitemporal data
+
+In my work, I've addressing these problems by developing algorithms based on sparse regression, multiscale image decomposition, lor-rank tensor models, and deep learning.
 
 # <img src="styleFiles/deepgun.png" alt="Generative endmember model" title="Generative endmember model" width="100%" height="100%" />
 
-== Image Super Resolution
 
 
 
 
+
+== Image Fusion and Super Resolution
+
+Most imaging modalities (such as, e.g., hyperpectral or multispectral/RGB images) have limitations and trade-off in the statial, spectral or temporal resolution of the acquisitions. Multimodal image fusion or super resolution aims at overcoming the physical limitations of the imaging sensors to explore complementary strenghts of each of them to obtain high-resolution image data. Similarly, super-resolution aims to improve the resolution of images acquired from a single modality. Nonetheless, this problem can be ill-posed and requires a proper framework to obtain high quality solutions. I investigated this problem in multiple frameworks, for RGB videos and hyperspectral and multispectral image fusion, developing methods that are computationally efficient and can represent the nonidealities of the image acquisition process to obtain higher quality recontructions.
+
+
+
+
+
+== Graph Identification and change detection
+
+Data in many real world applications are supported in irregular domains or networks, which can be represented as graphs. This is the case of, e.g., brain networks and power grids. Graph signal processing (GSP) aims at extending classical signal processing tools to process data that is supported on graphs. However, several challenges exist. First, in many applications the connectivity of the graph is not known in advance and must be estimated from measurements. Second, applications of GSP are often large-scale problems, which require efficient methods. In particular, two important problems are to investigate the identification of network connectivity from nonlinear measurements, and the detection of anomalie or abrupt changes in temporal data streams, which often occur in groups of datapoints that are highly connected accordingn to the graph topology. A current research direction consists of developing efficient online algorithms for these task and analysing their performance.
 
 
 

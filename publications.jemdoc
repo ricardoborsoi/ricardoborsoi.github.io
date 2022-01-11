@@ -5,18 +5,8 @@ Note: An up-to-date publication list can be found in [https://scholar.google.com
 
 
 
-== Preprints
+# == Preprints
 
-. M. Moscu, *R.A. Borsoi*, C. Richard, J.C.M. Bermudez. Graph topology inference with derivative-reproducing property in RKHS: algorithm and convergence analysis.
-#
-#
-. D.M. Carmo, *R.A. Borsoi*, M.H. Costa. Robust parameter design for Wiener-based binaural noise reduction methods in hearing aids.
-#
-#
-. *R.A. Borsoi*, T. Imbiriba, J.C.M. Bermudez, C. Richard. Fast Unmixing and Change Detection in Multitemporal Hyperspectral Data.
-#
-#
-. C. Prévost, *R.A. Borsoi*, K. Usevich, D. Brie, J.C.M. Bermudez, C. Richard. Hyperspectral super-resolution accounting for spectral variability: LL1-based recovery and blind unmixing.
 
 
 
@@ -24,6 +14,19 @@ Note: An up-to-date publication list can be found in [https://scholar.google.com
 
 == Journal Papers
 
+
+. M. Moscu, *R.A. Borsoi*, C. Richard, J.C.M. Bermudez. Graph topology inference with derivative-reproducing property in RKHS: algorithm and convergence analysis. /IEEE Transactions on Signal and Information Processing Over Networks/, (to appear, 2022). [https://arxiv.org/pdf/2104.13687.pdf \[PDF\]]
+#
+#
+. D.M. Carmo, *R.A. Borsoi*, M.H. Costa. Robust parameter strategy for wiener-based binaural noise reduction methods in hearing aids. /Biomedical Signal Processing and Control/, (to appear, 2022). [https://arxiv.org/pdf/2104.09615.pdf \[PDF\]]
+#
+#
+. C. Prévost, *R.A. Borsoi*, K. Usevich, D. Brie, J.C.M. Bermudez, C. Richard. Hyperspectral super-resolution accounting for spectral variability: coupled tensor LL1-based recovery and blind unmixing of the unknown super-resolution image. /SIAM Journal on Imaging Sciences/, (to appear, 2022). [https://hal.archives-ouvertes.fr/hal-03158076 \[PDF\]]
+#
+#
+. *R.A. Borsoi*, T. Imbiriba, J.C.M. Bermudez, C. Richard. Fast Unmixing and Change Detection in Multitemporal Hyperspectral Data. /IEEE Transactions on Computational Imaging/, 2021. [https://arxiv.org/pdf/2104.02837.pdf \[PDF\]]
+#
+#
 . *R.A. Borsoi*, T. Imbiriba, J.C.M. Bermudez, C. Richard, J Chanussot, L. Drumetz, J.-Y. Tourneret, A. Zare, C. Jutten. [https://ieeexplore.ieee.org/document/9439249 Spectral variability in hyperspectral data unmixing: A comprehensive review]. /IEEE Geoscience and Remote Sensing Magazine/, 2021. [https://arxiv.org/pdf/2001.07307 \[PDF\]] [https://github.com/ricardoborsoi/unmixing_spectral_variability \[Code\]]
 #
 #
@@ -78,6 +81,12 @@ Note: An up-to-date publication list can be found in [https://scholar.google.com
 
 == International Conference Papers
 
+. H. Li, B. Duvvuri, *R.A. Borsoi*, T. Imbiriba, E. Beighley, D. Erdogmus, P. Closas. Online Multi-resolution Fusion of Space-borne Multispectral Images. /IEEE Aerospace Conference/. (to appear 2022, March)
+#
+#
+. *R.A. Borsoi*, C. Prévost, K. Usevich, D. Brie, J.C.M. Bermudez, C. Richard. Coupled tensor models accounting for inter-image variability. /Asilomar Conference on Signals, Systems, and Computers/, 2021.
+#
+#
 . L.C. Ayres, S.J.M de Almeida, J.C.M. Bermudez, *R.A. Borsoi*. [https://ieeexplore.ieee.org/abstract/document/9415024/ A Homogeneity-Based Multiscale Hyperspectral Image Representation for Sparse Spectral Unmixing]. /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, 2021. [https://arxiv.org/pdf/2102.05804.pdf \[PDF\]]
 #
 #
@@ -110,15 +119,27 @@ Note: An up-to-date publication list can be found in [https://scholar.google.com
 
 
 
-== Local Conference Papers
+== Local Workshops and Abstracts
 
-. D.M do Carmo, M.H. Costa, *R.A. Borsoi*. Proposta de uma função custo para a preservação espacial de fontes sonoras em aparelhos auditivos biauriculares. /XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais/, Florianópolis, 2020. [https://www.sbrt.org.br/sbrt2020/papers/1570661592.pdf \[PDF\]]
+. B. Duvvuri, H. Li, *R.A. Borsoi*, T. Imbiriba, D. Erdogmus, E. Beighley, P. Closas. Recursive Bayesian Classification for Water Mapping. /Abstract presented at the American Geophysical Union (AGU) Fall Meeting/, 2021.
 #
 #
-. L.C. Ayres, S.J.M. de Almeida, J.C.M. Bermudez, *R.A Borsoi*. Representação Aprimorada de Imagens Hiperespectrais em Múltiplas Escalas para a Separação Espectral Esparsa. /XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais/, Florianópolis, 2020. [https://www.sbrt.org.br/sbrt2020/papers/1570639862.pdf \[PDF\]]
+. H. Li, B. Duvvuri, *R.A. Borsoi*, T. Imbiriba, D. Erdogmus, E. Beighley, P. Closas. Online multi-resolution image fusion: an application for water mapping. /Abstract presented at the American Geophysical Union (AGU) Fall Meeting/, 2021.
 #
 #
-. *R.A. Borsoi*, J.C.C. Aya, G.H. Costa and J.C.M. Bermudez. Super-Resolução de Imagens de Tomografia por Impedância Elétrica. /XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais/, São Pedro, 2017. [https://www.researchgate.net/publication/319716478_Super-Resolucao_de_Imagens_de_Tomografia_por_Impedancia_Eletrica \[PDF\]] 
+. D.M. Carmo, *R.A. Borsoi*, M.H. Costa. Proposta de um parâmetro robusto para redução de ruído e preservação espacial em aparelhos auditivos biauriculares. /XXXIX Brazilian Symposium on Telecommunications and Signal Processing/, Fortaleza, 2021. [https://biblioteca.sbrt.org.br/articlefile/2805.pdf \[PDF\]]
+#
+#
+. D.M. Carmo, *R.A. Borsoi*, M.H. Costa. Filtro Multicanal de Wiener com Restrição Quadrática para Preservação de Pistas Biauriculares em Aparelhos Auditivos. /XXXIX Brazilian Symposium on Telecommunications and Signal Processing/, Fortaleza, 2021. [https://biblioteca.sbrt.org.br/articlefile/2878.pdf \[PDF\]]
+#
+#
+. D.M do Carmo, M.H. Costa, *R.A. Borsoi*. Proposta de uma função custo para a preservação espacial de fontes sonoras em aparelhos auditivos biauriculares. /XXXVIII Brazilian Symposium on Telecommunications and Signal Processing/, Florianópolis, 2020. [https://www.sbrt.org.br/sbrt2020/papers/1570661592.pdf \[PDF\]]
+#
+#
+. L.C. Ayres, S.J.M. de Almeida, J.C.M. Bermudez, *R.A Borsoi*. Representação Aprimorada de Imagens Hiperespectrais em Múltiplas Escalas para a Separação Espectral Esparsa. /XXXVIII Brazilian Symposium on Telecommunications and Signal Processing/, Florianópolis, 2020. [https://www.sbrt.org.br/sbrt2020/papers/1570639862.pdf \[PDF\]]
+#
+#
+. *R.A. Borsoi*, J.C.C. Aya, G.H. Costa and J.C.M. Bermudez. Super-Resolução de Imagens de Tomografia por Impedância Elétrica. /XXXV Brazilian Symposium on Telecommunications and Signal Processing/, São Pedro, 2017. [https://www.researchgate.net/publication/319716478_Super-Resolucao_de_Imagens_de_Tomografia_por_Impedancia_Eletrica \[PDF\]] 
 
 
 
@@ -128,6 +149,9 @@ Note: An up-to-date publication list can be found in [https://scholar.google.com
 
 == Other
 
+. *R.A. Borsoi*. Spectral variability in hyperspectral unmixing: Multiscale, tensor, and neural network-based approaches. PhD thesis, Université Côte d'Azur (France); Universidade Federal de Santa Catarina (Brazil), 2021. [https://tel.archives-ouvertes.fr/tel-03253631/document \[PDF\]]
+#
+#
 . *R.A. Borsoi*. [href="https://repositorio.ufsc.br/handle/123456789/175313 A new adaptive algorithm for video super-resolution with improved outlier handling capability]. Master thesis, Federal University of Santa Catarina, 2016. [https://repositorio.ufsc.br/bitstream/handle/123456789/175313/345229.pdf?sequence=1 \[PDF\]]
 
 
