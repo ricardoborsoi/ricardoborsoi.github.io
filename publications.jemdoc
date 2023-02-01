@@ -14,14 +14,16 @@ Note: An up-to-date publication list can be found in [https://scholar.google.com
 
 == Journal Papers
 
-
-. M. Moscu, *R.A. Borsoi*, C. Richard, J.C.M. Bermudez. Graph topology inference with derivative-reproducing property in RKHS: algorithm and convergence analysis. /IEEE Transactions on Signal and Information Processing Over Networks/, (to appear, 2022). [https://arxiv.org/pdf/2104.13687.pdf \[PDF\]]
+. H. Li, B. Duvvuri, *R.A. Borsoi*, T. Imbiriba, E. Beighley, D. Erdogmus, P. Closas. Online fusion of multi-resolution multispectral images with weakly supervised temporal dynamics. /ISPRS Journal of Photogrammetry and Remote Sensing/, 2023. [https://arxiv.org/pdf/2301.02598.pdf \[PDF\]] [https://github.com/HaoqingLi/Multi-resolution-Multispectral-image-fusion-based-weakly-supervised-constrained-Kalman-filter \[Code\]]
 #
 #
-. D.M. Carmo, *R.A. Borsoi*, M.H. Costa. Robust parameter strategy for wiener-based binaural noise reduction methods in hearing aids. /Biomedical Signal Processing and Control/, (to appear, 2022). [https://arxiv.org/pdf/2104.09615.pdf \[PDF\]]
+. M. Moscu, *R.A. Borsoi*, C. Richard, J.C.M. Bermudez. Graph topology inference with derivative-reproducing property in RKHS: algorithm and convergence analysis. /IEEE Transactions on Signal and Information Processing Over Networks/, 2022. [https://arxiv.org/pdf/2104.13687.pdf \[PDF\]]
 #
 #
-. C. Prévost, *R.A. Borsoi*, K. Usevich, D. Brie, J.C.M. Bermudez, C. Richard. Hyperspectral super-resolution accounting for spectral variability: coupled tensor LL1-based recovery and blind unmixing of the unknown super-resolution image. /SIAM Journal on Imaging Sciences/, (to appear, 2022). [https://hal.archives-ouvertes.fr/hal-03158076 \[PDF\]]
+. D.M. Carmo, *R.A. Borsoi*, M.H. Costa. Robust parameter strategy for wiener-based binaural noise reduction methods in hearing aids. /Biomedical Signal Processing and Control/, 2022. [https://arxiv.org/pdf/2104.09615.pdf \[PDF\]]
+#
+#
+. C. Prévost, *R.A. Borsoi*, K. Usevich, D. Brie, J.C.M. Bermudez, C. Richard. Hyperspectral super-resolution accounting for spectral variability: coupled tensor LL1-based recovery and blind unmixing of the unknown super-resolution image. /SIAM Journal on Imaging Sciences/, 2022. [https://hal.archives-ouvertes.fr/hal-03158076 \[PDF\]]
 #
 #
 . *R.A. Borsoi*, T. Imbiriba, J.C.M. Bermudez, C. Richard. Fast Unmixing and Change Detection in Multitemporal Hyperspectral Data. /IEEE Transactions on Computational Imaging/, 2021. [https://arxiv.org/pdf/2104.02837.pdf \[PDF\]]
@@ -81,7 +83,10 @@ Note: An up-to-date publication list can be found in [https://scholar.google.com
 
 == International Conference Papers
 
-. H. Li, B. Duvvuri, *R.A. Borsoi*, T. Imbiriba, E. Beighley, D. Erdogmus, P. Closas. Online Multi-resolution Fusion of Space-borne Multispectral Images. /IEEE Aerospace Conference/. (to appear 2022, March)
+. X. Wang, *R.A. Borsoi*, C. Richard, J. Chen. Deep Image Fusion Accounting for Inter-image Variability. /Asilomar Conference on Signals, Systems, and Computers/, 2022.
+#
+#
+. H. Li, B. Duvvuri, *R.A. Borsoi*, T. Imbiriba, E. Beighley, D. Erdogmus, P. Closas. Online Multi-resolution Fusion of Space-borne Multispectral Images. /IEEE Aerospace Conference/, March, 2022. [https://arxiv.org/pdf/2204.12566.pdf \[PDF\]]
 #
 #
 . *R.A. Borsoi*, C. Prévost, K. Usevich, D. Brie, J.C.M. Bermudez, C. Richard. Coupled tensor models accounting for inter-image variability. /Asilomar Conference on Signals, Systems, and Computers/, 2021.
@@ -121,6 +126,15 @@ Note: An up-to-date publication list can be found in [https://scholar.google.com
 
 == Local Workshops and Abstracts
 
+. D.M. Carmo, *R.A. Borsoi*, M.H. Costa. Uma Abordagem Convexa para o Filtro de Wiener Multicanal com Preservação de Pistas Biauriculares em Aparelhos Auditivos. /XXXIX Brazilian Conference on Biomedical Engineering/, Florianópolis, 2022. [\[PDF\]] *(best student paper award)*
+#
+#
+. C. Prévost, *R.A. Borsoi*, K. Usevich, D. Brie, J.C.M. Bermudez, C. Richard. Factorisation tensorielle couplée en termes de rangs (L,L,1): application conjointe à la super-résolution hyperspectrale et au démélange en présence de variabilité spectrale. /XXVIIIème Colloque Francophone de Traitement du Signal et des Images (GRETSI)/, 2022. [https://hal.science/hal-03689360/document \[PDF\]]
+#
+#
+. *R.A. Borsoi*, C. Prévost, K. Usevich, D. Brie, J.C.M. Bermudez, C. Richard. Tensor-based image fusion accounting for inter-image variability: Recoverability and algorithms. /XXVIIIème Colloque Francophone de Traitement du Signal et des Images (GRETSI)/, 2022. [https://hal.univ-lorraine.fr/hal-03777569/document \[PDF\]]
+#
+#
 . B. Duvvuri, H. Li, *R.A. Borsoi*, T. Imbiriba, D. Erdogmus, E. Beighley, P. Closas. Recursive Bayesian Classification for Water Mapping. /Abstract presented at the American Geophysical Union (AGU) Fall Meeting/, 2021.
 #
 #
