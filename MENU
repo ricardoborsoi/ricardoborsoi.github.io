@@ -1,11 +1,11 @@
 
 Navigation
     Home                [index.html]
-    About               [index.html]
+    # About               [index.html]
     # Dep. site           [index.html]      
     
 Research
-    Projects            [research.html]
+    # Projects            [research.html]
     Publications        [publications.html]
     Code/Data           [codes.html]
     #People              [people.html]
@@ -13,5 +13,11 @@ Research
     # Talks               [index.html]
     # Teaching            [index.html]
     # Service             [index.html]
+
+Projects
+    LENTILLE        [p_LENTILLE.html]
+    AGDAM           [p_AGDAM.html]
+
+
 
 # vim: et

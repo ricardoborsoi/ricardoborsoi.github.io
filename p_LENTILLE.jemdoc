@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{projects.html}, notime
+= Projects
+
+
+== *LENTILLE: Learning and Adapting Generative Models to Solve Blind Inverse Problems*
+
+*PI* : Ricardo Borsoi  
+
+*Duration*: 2024 - 2028
+
+*Budget*: 310 k€
+
+*Funding*: ANR JCJC grant number ANR-23-CE23-0024
+
+
+
+== Context and summary
+
+Machine learning approaches are of high importance as solutions to the so-called blind inverse problems, such as blind deconvolution and blind source separation, which are challenging to address using classical methods. An approach to solve blind inverse problems which combines high performance and strong theoretical guarantees is to use pretrained deep generative models (such as generative adversarial networks) to parametrize the solutions. However, the scarcity of data to train the deep generative models and mismatches between the statistical distribution of the data used for their training and testing, both of which occur in many applications, considerably degrade the performance of this approach. Moreover, traditional unsupervised learning and domain adaptation frameworks (which can remedy these challenges in, e.g., classification) are not effective in addressing blind inverse problems. This project aims to develop new frameworks for learning and adaptting deep generative models to solve blind inverse problems. A domain adaptation framework will be developed to adjust pretrained deep generative models to new measurements using learning objectives that do not require data with ground truth. Moreover, we will exploit the connection between generative models and low-rank tensor decompositions to study their uniqueness when learned with small datasets, which is a key element to guarantee their interpretability. An algorithm will then be proposed to solve inverse problems with robustness to inaccuracies in the pretrained generative models. The main goals of this project are to develop new algorithms that address the aforementioned challenges, to theoretically study their performance, and to validate them on real applications such as hyperspectral data unmixing and multisubject functional magnetic resonance imaging (fMRI) source separation.
+
+
+
+== Collaborators
+
+Konstantin Usevich (CRAN, CNRS), David Brie (CRAN, Univ. Lorraine), Tülay Adali (UMBC), Xiao Fu (OSU).
+
+
+
+== Jobs
+
+There are multiple open positions (PhD, postdoc and internship) related to this project. If you are interested, contact us by email, joining a CV and a brief statement of interest.
+
+
+
+~~~
+{}{img_left}{styleFiles/anr.jpg}{alt text}{100}{}{styleFiles/anr.jpg}
+~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
